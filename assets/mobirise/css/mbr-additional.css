@@ -2117,6 +2117,33 @@ body {
 .cid-r2zcqf8rfK .progress_value span {
   padding-left: 30px;
 }
+.cid-r2zHhsNOCU {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-r2zHhsNOCU .title {
+  margin-bottom: 2rem;
+}
+.cid-r2zHhsNOCU .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r2zHhsNOCU a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-r2zHhsNOCU a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-r2zHhsNOCU .multi-horizontal {
+  flex-grow: 1;
+  -webkit-flex-grow: 1;
+  max-width: 100%;
+}
+.cid-r2zHhsNOCU .input-group-btn {
+  display: block;
+  text-align: center;
+}
 .cid-qTkAaeaxX5 {
   padding-top: 60px;
   padding-bottom: 60px;
