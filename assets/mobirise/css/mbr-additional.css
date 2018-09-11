@@ -1556,16 +1556,16 @@ body {
   background: #149dcc;
 }
 .cid-r3eqRKXCeN .progress1 .progressbar-number:before {
-  content: '34';
+  content: '42';
 }
 .cid-r3eqRKXCeN .progress2 .progressbar-number:before {
-  content: '30';
+  content: '34';
 }
 .cid-r3eqRKXCeN .progress3 .progressbar-number:before {
   content: '30';
 }
 .cid-r3eqRKXCeN .progress4 .progressbar-number:before {
-  content: '26';
+  content: '30';
 }
 .cid-r3eqRKXCeN .progress-primary {
   background: rgba(206, 206, 206, 0.4);
